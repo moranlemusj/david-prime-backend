@@ -13,3 +13,10 @@
 
 # Local hub state
 ~/.david-prime/
+
+# Local working files
+/PLAN-*.md
+/PHASE-TASKS.md
+/PHASE-SUMMARY.md
+/PHASE-CONCEPTS.md
+/scripts/verify-phase-*.sh
